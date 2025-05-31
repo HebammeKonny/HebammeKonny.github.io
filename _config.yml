@@ -1,15 +1,27 @@
+# config file changes only get applied after re-running jekyll
 # Site Settings
-title: Start Jekyll
-email: taniarascia@gmail.com
-description: >
-  A guide to getting started with Jekyll.
-baseurl: "/startjekyll"
-url: "http://taniarascia.github.io"
-twitter_username: taniarascia
-github_username:  taniarascia
+title: Hebamme Konny
+subtitle: Hebamme und Meditation
+tabtitle: Hebamme mit Herz
+email: hebamme-korneliahylla@web.de
+description: 
+baseurl: ''
+url: 'http://HebammeKonny.github.io'
 # Build Settings
 sass:
   sass_dir: _sass
 include: ['_pages']
 kramdown:
   input: GFM
+  
+# Layout
+
+show_excerpts: true        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.html"}
+  - {file: "README.md"}
