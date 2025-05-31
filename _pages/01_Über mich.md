@@ -1,8 +1,8 @@
 ---
 layout: page
-nav_title: About
-title: About
-permalink: /about/
+nav_title: Über mich
+title: Über mich
+permalink: /über mich/
 ---
 
 About content goes here.
