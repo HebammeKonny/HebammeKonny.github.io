@@ -6,4 +6,4 @@ permalink: /Kontakt/
 ---
 
 
-My e-mail is [hebamme-korneliahylla@web.de](mailto:hebamme-korneliahylla@web.de).
+Meine e-mail ist [hebamme-korneliahylla@web.de](mailto:hebamme-korneliahylla@web.de).
