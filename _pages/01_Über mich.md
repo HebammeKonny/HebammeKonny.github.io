@@ -1,6 +1,6 @@
 ---
 layout: page
-nav_title: Über mich
+nav_title: Über_mich
 title: Über mich
 permalink: /über mich/
 ---
